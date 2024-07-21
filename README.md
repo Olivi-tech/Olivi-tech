@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mobile app development, UI/UX design, OpenAI into your business**
 
-- 📫 How to reach me **shakil@flutterstudio.dev**
+- 📫 How to reach me **mshakilawan735@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/flutterdeveloper1/](https://www.linkedin.com/in/flutterdeveloper1/)
 
